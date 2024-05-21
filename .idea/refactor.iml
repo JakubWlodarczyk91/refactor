@@ -134,6 +134,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/twig/extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/twig/twig" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-mock/php-mock" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-mock/php-mock-integration" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/php-mock/php-mock-phpunit" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
